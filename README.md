@@ -42,7 +42,7 @@ Welcome to the repository for my personal portfolio website. This website is des
 
 4. Or directly visit my portfolio online website:
 
-   https://svs-portfolio-001.netlify.app/
+   https://shantveeresh.netlify.app/
 
 ## Contact
 
